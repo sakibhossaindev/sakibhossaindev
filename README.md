@@ -1,175 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Sakib | MERN Stack Developer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<h1 align="center">Hi, I'm Sakib 👋</h1>
+<h3 align="center">🚀 MERN Stack Developer</h3>
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0b0f14;
-      color: #e5e7eb;
-    }
+<p align="center">
+  <b>MongoDB</b> • <b>Express</b> • <b>React</b> • <b>Node.js</b>
+</p>
 
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 30px 20px;
-    }
+<hr/>
 
-    header {
-      text-align: center;
-      border-bottom: 1px solid #1f2937;
-      padding-bottom: 20px;
-    }
+<h3>👨‍💻 About Me</h3>
 
-    header h1 {
-      margin-bottom: 6px;
-      font-size: 32px;
-    }
+I am a MERN Stack Developer focused on building clean, scalable and
+maintainable web applications. I enjoy working on real-world projects
+and improving my skills daily.
 
-    header p {
-      color: #9ca3af;
-      font-size: 15px;
-    }
+---
 
-    section {
-      margin-top: 35px;
-    }
+## Full Stack Skill Matrix
+- HTML & CSS (Advanced)
+- JavaScript (Core + DOM)
+- React (Frontend)
+- Node.js & Express (Backend)
+- MongoDB (Database)
 
-    h2 {
-      font-size: 20px;
-      margin-bottom: 12px;
-      border-bottom: 1px solid #1f2937;
-      padding-bottom: 6px;
-    }
+---
 
-    p {
-      color: #d1d5db;
-      font-size: 15px;
-      line-height: 1.6;
-    }
+## Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
-    ul {
-      padding-left: 18px;
-    }
+---
 
-    li {
-      margin-bottom: 6px;
-      color: #d1d5db;
-      font-size: 14px;
-    }
+## Currently Learning
+- Advanced React patterns
+- Backend architecture
+- Authentication & security
 
-    .stack span {
-      display: inline-block;
-      background: #111827;
-      border: 1px solid #1f2937;
-      padding: 6px 10px;
-      margin: 5px;
-      border-radius: 4px;
-      font-size: 13px;
-    }
+---
 
-    .box {
-      border: 1px solid #1f2937;
-      padding: 15px;
-      border-radius: 6px;
-      background: #020617;
-      font-size: 14px;
-    }
+## Project Vision
+- Responsive landing pages
+- Full-stack MERN applications
+- Clean UI & UX focused projects
 
-    footer {
-      margin-top: 40px;
-      text-align: center;
-      color: #6b7280;
-      font-size: 13px;
-    }
+---
 
-    a {
-      color: #60a5fa;
-      text-decoration: none;
-    }
-  </style>
-</head>
+## GitHub
+🔗 https://github.com/yourusername
 
-<body>
+---
 
-  <div class="container">
-
-    <header>
-      <h1>Sakib</h1>
-      <p>MERN Stack Developer • Web Engineer • Problem Solver</p>
-    </header>
-
-    <section>
-      <h2>About Me</h2>
-      <p>
-        I am a MERN Stack Developer focused on building clean,
-        scalable and maintainable web applications. I enjoy
-        working on real-world projects and improving my skills daily.
-      </p>
-    </section>
-
-    <section>
-      <h2>Full Stack Skill Matrix</h2>
-      <ul>
-        <li>HTML & CSS (Advanced)</li>
-        <li>JavaScript (Core + DOM)</li>
-        <li>React (Frontend)</li>
-        <li>Node.js & Express (Backend)</li>
-        <li>MongoDB (Database)</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>Tech Stack</h2>
-      <div class="stack">
-        <span>HTML</span>
-        <span>CSS</span>
-        <span>JavaScript</span>
-        <span>React</span>
-        <span>Node.js</span>
-        <span>MongoDB</span>
-        <span>Git</span>
-      </div>
-    </section>
-
-    <section>
-      <h2>Currently Learning</h2>
-      <ul>
-        <li>Advanced React patterns</li>
-        <li>Backend architecture</li>
-        <li>Authentication & Security</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>Project Vision</h2>
-      <ul>
-        <li>Responsive landing pages</li>
-        <li>Full-stack MERN applications</li>
-        <li>Clean UI & UX focused projects</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>GitHub</h2>
-      <div class="box">
-        GitHub Profile:
-        <a href="https://github.com/yourusername">
-          github.com/yourusername
-        </a>
-      </div>
-    </section>
-
-    <footer>
-      © 2026 Sakib
-    </footer>
-
-  </div>
-
-</body>
-</html>
-
+© 2026 Sakib
