@@ -1,31 +1,125 @@
 <h1 align="center">Hi, I'm Sakib 👋</h1>
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
-<p align="center">
-  <b>MongoDB</b> • <b>Express</b> • <b>React</b> • <b>Node.js</b>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<hr/>
+  <style>
+    :root {
+      --bg: #020617;
+      --card: #0f172a;
+      --primary: #38bdf8;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+    }
 
-<h3>👨‍💻 About Me</h3>
-<ul>
-  <li>🌱 Learning & building modern web applications</li>
-  <li>🛠️ Love clean code & real-world projects</li>
-  <li>🤝 Open to collaboration</li>
-</ul>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-<h3>📫 Contact</h3>
-<p>
-  📱 WhatsApp:
-  <a href="https://wa.me/8801705660758" target="_blank">
-    wa.me/8801705660758
-  </a>
-</p>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
 
-<h3>⚙️ Tech Stack</h3>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+    header {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+      background: radial-gradient(circle at top, #0ea5e9, #020617 60%);
+    }
+
+    header h1 {
+      font-size: 52px;
+      font-weight: 700;
+    }
+
+    header span {
+      color: var(--primary);
+    }
+
+    header p {
+      margin-top: 15px;
+      font-size: 20px;
+      color: var(--muted);
+    }
+
+    section {
+      max-width: 1100px;
+      margin: auto;
+      padding: 70px 20px;
+    }
+
+    h2 {
+      font-size: 32px;
+      margin-bottom: 30px;
+      color: var(--primary);
+    }
+
+    .about {
+      font-size: 18px;
+      color: var(--muted);
+      max-width: 800px;
+    }
+
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .skill {
+      background: var(--card);
+      padding: 14px 20px;
+      border-radius: 999px;
+      border: 1px solid #1e293b;
+      font-size: 15px;
+    }
+
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 25px;
+    }
+
+    .project {
+      background: var(--card);
+      padding: 25px;
+      border-radius: 16px;
+      border: 1px solid #1e293b;
+      transition: 0.3s;
+    }
+
+    .project:hover {
+      transform: translateY(-6px);
+      border-color: var(--primary);
+    }
+
+    .project h3 {
+      margin-bottom: 10px;
+    }
+
+    .project p {
+      color: var(--muted);
+      font-size: 15px;
+      margin-bottom: 15px;
+    }
+
+    .project a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .contact a {
+      color: var(--pri
